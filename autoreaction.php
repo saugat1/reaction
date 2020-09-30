@@ -1,6 +1,6 @@
 <?php
 
-require_once('lib/fb.php');
+require_once('fb.php');
 ///////////////////save all data to json for first time if there is no any or array is emptyl... 
 /////////////////////
 $file = "auth_data.json";
